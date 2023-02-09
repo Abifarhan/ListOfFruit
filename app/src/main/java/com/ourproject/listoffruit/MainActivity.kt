@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     ListOfFruitTheme {
-        Greeting("Android")
+        Greeting("This is our first project")
     }
 }
